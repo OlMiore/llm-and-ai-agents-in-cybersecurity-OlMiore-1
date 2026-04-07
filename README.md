@@ -29,3 +29,4 @@ windows_correlation_rules.zip/
 4. Make a `git add`, `git commit`, `git push`.
 
 After that, the system will automatically run the check and show the result.
+# trigger
